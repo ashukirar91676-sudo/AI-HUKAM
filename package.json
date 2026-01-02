@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial AI-HUKAM build"
+git remote add origin https://github.com/YOUR_USERNAME/ai-hukam-app.git
+git push -u origin main
