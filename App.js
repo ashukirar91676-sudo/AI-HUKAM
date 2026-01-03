@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head><title>AI-HUKAM</title></head>
-  <body>
-    <div id="root"></div>
-  </body>
-</html>
